@@ -10,5 +10,5 @@ terraform plan -var-file=dev/dev.tfvars
 ```
 ### apply
 ```
-terraform plan -var-file=dev/dev.tfvars
+terraform apply -var-file=dev/dev.tfvars
 ```
