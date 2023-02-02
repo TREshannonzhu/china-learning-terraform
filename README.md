@@ -1,14 +1,14 @@
 # china-learning-terraform
 
-# terraform init
+### terraform init
 ```
 terraform init -backend-config=dev/dev.tfbackend
 ```
-# plan
+### plan
 ```
 terraform plan -var-file=dev/dev.tfvars
 ```
-#apply
+### apply
 ```
 terraform plan -var-file=dev/dev.tfvars
 ```
