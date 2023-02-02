@@ -1,0 +1,3 @@
+credentials = "dev/terraform_serviceaccount.json"
+bucket = "terraform-china"
+prefix = "dev"
